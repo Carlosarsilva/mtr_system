@@ -1,0 +1,2 @@
+Flask==2.3.3
+html2image==2.0.4
